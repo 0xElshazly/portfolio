@@ -1,0 +1,44 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+.myname {
+  width: 100%;
+  font-size: 2em;
+  font-weight: 500;
+}
+.course {
+  margin-left: 50px;
+
+}
+.foot-link {
+  display: inline-block;
+  margin-right: 30px;
+  font-size: 30px;
+  margin: 8px;
+}
+.w3-teal {
+  background-color: #8B85C1 !important;
+}
+.fa-certificate:before, .fa-suitcase:before,.fa-calendar:before,.fa-briefcase:before
+,.fa-home:before,.fa-linkedin:before,.fa-envelope:before,.fa-phone:before,.fa-asterisk:before,
+.fa-globe:before,.fa-institution:before, .fa-bank:before, .fa-university:before,.fa-arrow-right:before{
+  color: #8B85C1;
+}
+.w3-text-teal, .w3-hover-text-teal:hover {
+  color: #8B85C1 !important;
+}
+.acc-link {
+    text-decoration: none;
+}
+.image {
+    width:100%; 
+    height: 500px;
+    
+    border-radius: 30px 30px 0 0;
+}
+.image:hover {
+    opacity: .8;
+
+}
+.immg {
+    border-radius: 30px;
+}
+footer{text-align: center;}
